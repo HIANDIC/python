@@ -9,6 +9,7 @@ i = 1
 sum = 0
 
 # creating a for loop for adding all numbers up to the given numbers to the sum
+# adding 1 to number is necessary, because range() function runs up to the end-1
 for i in range(number+1):
     sum += i
 
