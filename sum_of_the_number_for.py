@@ -9,7 +9,6 @@ i = 1
 sum = 0
 
 # creating a for loop for adding all numbers up to the given numbers to the sum
-# for loop is more simple
 for i in range(number):
     sum += i
 
